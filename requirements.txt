@@ -1,0 +1,12 @@
+yfinance
+prophet
+scikit-learn
+duckdb
+streamlit
+plotly
+pandas
+numpy
+matplotlib
+seaborn
+kaleido
+nbformat
